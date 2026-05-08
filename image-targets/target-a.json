@@ -1,7 +1,7 @@
 {
   "type": "PLANAR",
   "properties": {
-    "top": 0,
+    "top": 29,
     "left": 0,
     "width": 691,
     "height": 921,
@@ -19,5 +19,5 @@
     "luminanceImage": "target-a_luminance.jpg"
   },
   "created": 1778222843218,
-  "updated": 1778222861932
+  "updated": 1778232864608
 }
